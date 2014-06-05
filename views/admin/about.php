@@ -1,4 +1,4 @@
-<div class="wrap open-data">
+<div class="wrap call-me-now">
 	<h2 class="nav-tab-wrapper">
 		<a class="nav-tab nav-tab-active" href="admin.php?page=call_me_now_about"><?php _e('Information', 'call_me_now'); ?></a>
 		<a class="nav-tab" href="admin.php?page=call_me_now_settings"><?php _e('Settings', 'call_me_now'); ?></a>
@@ -19,7 +19,6 @@
 			</div>
 		</div>
 		<div class="grid-4" style="text-align: right">
-			<img src="<?php echo CALL_ME_NOW_URL . '/resources/uitleg-widget.png' ?>">
 		</div>
 	</div>
 
@@ -31,7 +30,6 @@
 			</div>
 		</div>
 		<div class="grid-4" style="text-align: right">
-			<img src="<?php echo CALL_ME_NOW_URL . '/resources/uitleg-shortcodes.png' ?>">
 		</div>
 	</div>
 

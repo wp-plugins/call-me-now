@@ -3,7 +3,7 @@
 	Plugin Name: Call Me Now - Vebonden
 	Plugin URI: http://www.verbonden.nl
 	Description: Call Me Now
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: Tussendoor internet & marketing
 	Author URI: http://www.tussendoor.nl
 	Tested up to: 3.9
@@ -19,6 +19,7 @@ class CallMeNow {
 	public function __construct() {
 		add_action('init', array($this, 'init'));
 		add_action('admin_menu', array($this, 'admin_menu'));
+		add_action('admin_enqueue_scripts', array($this, 'admin_enqueue_scripts'));
 		add_shortcode('call_me_now', array($this, 'shortcode'));
 		add_action('widgets_init', array($this, 'register_widget'));
 	}
@@ -37,6 +38,11 @@ class CallMeNow {
 		add_submenu_page ('call_me_now', __('Information', 'call_me_now'), __('Information', 'call_me_now'), 'manage_options', 'call_me_now_about', array(&$this, 'about'));
 		add_submenu_page ('call_me_now', __('Settings', 'call_me_now'), __('Settings', 'call_me_now'), 'manage_options', 'call_me_now_settings', array(&$this, 'settings'));
 		remove_submenu_page('call_me_now', 'call_me_now');
+	}
+
+	public function admin_enqueue_scripts() {
+		wp_register_style('call_me_now_admin', CALL_ME_NOW_URL . '/resources/style.css');
+		wp_enqueue_style('call_me_now_admin');
 	}
 
 	public function about() {

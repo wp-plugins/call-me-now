@@ -1,11 +1,10 @@
-<div class="wrap vwe-kenteken">
+<div class="wrap call-me-now">
 	<h2 class="nav-tab-wrapper">
 		<a class="nav-tab" href="admin.php?page=call_me_now_about"><?php _e('Information', 'call_me_now'); ?></a>
 		<a class="nav-tab nav-tab-active" href="admin.php?page=call_me_now_settings"><?php _e('Settings', 'call_me_now'); ?></a>
 	</h2>
 	<div class="section">
 		<div class="grid-12">
-			<div id="icon-vwe-kenteken" class="icon32"><br></div>
 			<h2><?php _e('Call Me Now settings', 'call_me_now') ?></h2>
 			<p><?php _e('Enter the Call Me Now settings', 'call_me_now') ?>:</p>
 			<form method="post" action="admin.php?page=call_me_now_settings">

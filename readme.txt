@@ -1,9 +1,9 @@
-=== Call Me Now by Verbonden ===
+=== Call Me Now - Verbonden BV ===
 Contributors: Tussendoor internet & marketing
-Tags: call, me, now, verbonden, button, widget
+Tags: call, me, now, verbonden, button, widget, tussendoor
 Requires at least: 3.6
 Tested up to: 3.9.*
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 
 == Description ==
@@ -28,7 +28,11 @@ Searching for custom made plugin solutions? You can always contact [Tussendoor](
 3. Set the interval through Security -> settings and select the user for whom the password must be reset
 
 == Changelog ==
-= 1.0 =
+
+= 1.0.1 =
+* Bug fixes
+
+= 1.0.0 =
 * Initial release
 
 == Translations==
