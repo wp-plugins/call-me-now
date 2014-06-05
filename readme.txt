@@ -1,5 +1,5 @@
 === Call Me Now - Verbonden BV ===
-Contributors: Tussendoor internet & marketing, Tussendoor
+Contributors: Tussendoor
 Tags: call, me, now, verbonden, button, widget, tussendoor
 Requires at least: 3.6
 Tested up to: 3.9.*
