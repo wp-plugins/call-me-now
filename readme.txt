@@ -10,7 +10,7 @@ Stable tag: 1.0.1
 This is a dutch-based plugin for the VoIP services of [Verbonden B.V.](https://verbonden.nl) from The Netherlands.
 
 = Nederlands =
-Dit is een [call me now widget](https://verbonden.nl/voip-modules/call-me-now) voor telefonie diensten van [Verbonden B.V.](https://verbonden.nl). Verbonden levert VoIP telefonie voor klein, midden en groot bedrijf. Met de widget voor Verbonden B.V. plaats je op een super eenvoudige manier een formulier waarmee bezoekers contact op kunnen nemen. 
+Dit is een [call me now](https://verbonden.nl/voip-modules/call-me-now) widget voor telefonie diensten van [Verbonden B.V.](https://verbonden.nl). Verbonden levert VoIP telefonie voor klein, midden en groot bedrijf. Met de widget voor Verbonden B.V. plaats je op een super eenvoudige manier een formulier waarmee bezoekers contact op kunnen nemen. 
 
 Wanneer men het nummer invoert in de widget en deze verzend wordt er direct (realtime) een verbinding opgelegd tussen jouw VoIP account en het nummer van de klant. 
 
