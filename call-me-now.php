@@ -1,8 +1,8 @@
 <?php
 /*
-	Plugin Name: Call Me Now - Vebonden
+	Plugin Name: Call me now Vebonden B.V.
 	Plugin URI: http://www.verbonden.nl
-	Description: Call Me Now
+	Description: Call me now widget voor Verbonden B.V.
 	Version: 1.0.1
 	Author: Tussendoor internet & marketing
 	Author URI: http://www.tussendoor.nl
