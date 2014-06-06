@@ -30,7 +30,7 @@ Een aantal premium plugins zijn te vinden op [onze eigen website](http://www.tus
 == Installation ==
 1. Upload the plugin to your WordPress site. This can be done manually (through FTP) and through the WordPress dashboard (as *.zip file)
 2. Activate the plugin through the plugin page
-3. Set the interval through Security -> settings and select the user for whom the password must be reset
+3. Add the widget through Appearance -> Widgets and drag the Call me now widget to your sidebar.
 
 == Changelog ==
 
