@@ -12,7 +12,8 @@
 if ( ! defined('CALL_ME_NOW_DIR')) define('CALL_ME_NOW_DIR', dirname(__FILE__));
 if ( ! defined('CALL_ME_NOW_URL')) define('CALL_ME_NOW_URL', plugins_url('call-me-now'));
 
-require_once('call-me-now-widget.php');
+require_once(CALL_ME_NOW_DIR.'/call-me-now-widget.php');
+require_once(CALL_ME_NOW_DIR.'/call-me-now-frame.php');
 
 class CallMeNow {
 

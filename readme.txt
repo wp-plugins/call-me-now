@@ -2,8 +2,8 @@
 Contributors: Tussendoor
 Tags: call, me, now, verbonden, button, widget, tussendoor
 Requires at least: 3.6
-Tested up to: 3.9.*
-Stable tag: 1.0.1
+Tested up to: 4.1.*
+Stable tag: 1.0.2
 
 == Description ==
 
@@ -33,6 +33,9 @@ Een aantal premium plugins zijn te vinden op [onze eigen website](http://www.tus
 3. Add the widget through Appearance -> Widgets and drag the Call me now widget to your sidebar.
 
 == Changelog ==
+
+= 1.0.2 =
+* Bug fixes
 
 = 1.0.1 =
 * Bug fixes
