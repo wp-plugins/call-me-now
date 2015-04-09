@@ -3,10 +3,10 @@
 	Plugin Name: Call me now Vebonden B.V.
 	Plugin URI: http://www.verbonden.nl
 	Description: Zorg voor supersnelle call me now activiteiten op je website via de Call me now widget van Verbonden B.V.
-	Version: 1.0.1
+	Version: 1.0.2
 	Author: Tussendoor internet & marketing
 	Author URI: http://www.tussendoor.nl
-	Tested up to: 3.9
+	Tested up to: 4.1.1
 */
 
 if ( ! defined('CALL_ME_NOW_DIR')) define('CALL_ME_NOW_DIR', dirname(__FILE__));
